@@ -1,4 +1,4 @@
-/* config.js — настройки API и резервные данные */
+/*  config.js — настройки API и резервные данные */
 
 const API_KEY = 'de6e5de4-cd66-4dd4-b713-ef961fe28e20';
 const BASE    = 'https://kinopoiskapiunofficial.tech/api/v2.2/films';
